@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+results/*.pt
+results/*.csv
+results/training_log.csv
+!results/.gitkeep
+.pytest_cache/
+*.egg-info/
